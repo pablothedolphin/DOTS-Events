@@ -1,0 +1,16 @@
+{
+  "name": "com.open.dots-events",
+  "displayName": "DOTS Events",
+  "author": "Jak Hussain",
+  "version": "0.1.0-preview",
+  "unity": "2020.1",
+  "description": "A lightweight event API for Unity DOTS inspired by some findings in the forums.",
+  "keywords": [
+    "Open Source",
+    "Module"
+  ],
+  "category": "Open Source",
+  "dependencies": {
+    "com.unity.entities": "0.7.0-preview.19"
+  }
+}

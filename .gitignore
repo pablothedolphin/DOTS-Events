@@ -1,0 +1,19 @@
+/*
+
+/*/
+
+!.gitignore
+!README.md
+
+# Include the main folders needed
+!DOTS Events/
+!docs/
+!docfx/
+
+# Ignore everything inside project folder
+DOTS Events/*
+
+# Select which folders become included
+!DOTS Events/Assets/
+!DOTS Events/ProjectSettings/
+!DOTS Events/Packages/
